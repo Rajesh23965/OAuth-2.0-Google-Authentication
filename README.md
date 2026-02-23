@@ -45,7 +45,6 @@ Compiles TypeScript to JavaScript in the dist/ folder:
 npm run build
 npm start
 
-
 ├── auth/
 │   └── google.ts      # Google Strategy configuration
 ├── app.ts             # Express application and routes
